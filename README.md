@@ -1,0 +1,30 @@
+TICKER: VIP
+Block Size: 2MB
+POW + POS 
+SUPPLY: 90 Millions
+BLOCK TIME: 30 seconds
+ALGORITM: NIST5 
+(BLAKE - Grøstl - JH - Keccak - Skein)
+MATURITY: 40 Blocks
+
+POS: 8% Annually
+POS: Start from block 50000
+Min Stake Age: 24 Hours
+Max Stake Age: Unlimited
+
+PoW: Approx 69 Days Mining 
+
+
+Blocks:
+
+Blocks: 0-20 : Airdrop
+Block: 20-100: 0 VIP
+Block: 100-1000: 500 VIP
+Block: 1000-30000: 450 VIP
+Block: 30000-60000: 300 VIP
+Block: 60000-100000: 250 VIP
+Block: 100000-150000: 150 VIP
+Block: 150000-200000: 110 VIP
+
+
+
